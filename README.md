@@ -1,5 +1,5 @@
 # Final-Space-React-Redux
-A Hub for getting cool details on characters from the adult swim show [final space]( https://www.adultswim.com/videos/final-space).
+A mobile Web Application Hub for getting cool details on characters from the Adult swim show [Final space]( https://www.adultswim.com/videos/final-space).
 
 ![screenshot](/ScreenShot.PNG)
 
@@ -8,6 +8,7 @@ A Hub for getting cool details on characters from the adult swim show [final spa
 - React
 - JSX
 - Redux
+- [Final space API](https://finalspaceapi.com/docs/)
 
 ## Live Demo
 
@@ -82,6 +83,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 - [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for a great design.
+- [@lelouchB](https://github.com/lelouchB/final-space-api) for creating the API.
 - my dog Perry for the comforting lick here and there
 ## 📝 License
 - This project is [MIT](./LICENSE) licensed.
