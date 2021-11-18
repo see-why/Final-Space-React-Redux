@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Final-Space-React-Redux
+A mobile Web Application Hub for getting cool details on characters from the Adult swim show [Final space]( https://www.adultswim.com/videos/final-space).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screenshot](/ScreenShot.PNG)
+
+## Built With
+
+- React
+- JSX
+- Redux
+- [Final space API](https://finalspaceapi.com/docs/)
+
+## Live Demo
+
+- [Live Demo Link]( https://www.adultswim.com/videos/final-space)
+
+## Getting Started
+
+**The project comes shipped with linters config for html and css, so ensure you have lighthouse, ESlint, Webhint**
+**and Stylelint installed on your local environment**
+
+- **To get a local copy of the repository please run the following commands on your terminal:**
+- **$ git clone https://github.com/...**
+- **$ cd ...**
+- **$ git checkout ...**
+- **$ run npm install to couple all dependacies**
+
 
 ## Available Scripts
 
@@ -29,6 +53,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
@@ -39,32 +64,27 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👤 **Cyril Iyadi**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- GitHub: [@see-why](https://github.com/see-why)
+- LinkedIn: [C.Iyadi](https://www.linkedin.com/in/cyril-iyadi-83517270/)
 
-### Code Splitting
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions, issues, and feature requests are welcome!
 
-### Analyzing the Bundle Size
+Feel free to check the [issues page](../../issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Show your support
 
-### Making a Progressive Web App
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for a great design.
+- [@lelouchB](https://github.com/lelouchB/final-space-api) for creating the API.
+- my dog Perry for the comforting lick here and there
+## 📝 License
+- This project is [MIT](./LICENSE) licensed.
+- This project is also licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/).

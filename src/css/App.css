@@ -1,0 +1,59 @@
+a,
+.character-Container,
+.my-character,
+.my-character-images,
+.my-character-info,
+.my-profile,
+.other-info h3,
+.span-div,
+.abilities-div,
+.other-info {
+  display: flex;
+}
+
+.my-profile {
+  background: #ec4c8a;
+}
+
+.my-profile,
+.character-input {
+  margin-bottom: 5px;
+}
+
+.fas,
+.far {
+  right: 5px;
+  top: 10px;
+  position: absolute;
+}
+
+.my-character-info h2,
+.my-character-info h3 {
+  text-align: end;
+}
+
+h3 i.far {
+  position: relative;
+  top: 4px;
+  margin-left: 10px;
+}
+
+.zigZag {
+  background: #b13967;
+}
+
+.abilities {
+  flex-direction: column;
+}
+
+.abilities-div {
+  justify-content: space-between;
+}
+
+@media only screen and (max-width: 990) {
+  .my-profile-info h3,
+  .my-character-info h2,
+  .my-character-info h3 {
+    font-size: large;
+  }
+}
