@@ -1,0 +1,57 @@
+.my-character-details,
+.slideshow-container {
+  width: 50%;
+  position: relative;
+  height: 231px;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from { opacity: 0.4; }
+  to { opacity: 1; }
+}
+
+@keyframes fade {
+  from { opacity: 0.4; }
+  to { opacity: 1; }
+}
+
+.my-character-details-images,
+.mySlides {
+  display: none;
+  height: inherit;
+  padding: 9%;
+}
+
+.fade img {
+  border-width: 3px 4px 3px 5px;
+  border-radius: 95% 4% 92% 5%/4% 95% 6% 95%;
+}
+
+h1,
+.my-profile-info h3,
+.my-character-info h2,
+.my-character-info h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  word-wrap: break-word;
+}
+
+.my-character-info h2,
+.my-character-info h3 {
+  align-self: end;
+}
+
+.my-profile-info {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 5%;
+}

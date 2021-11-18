@@ -1,0 +1,70 @@
+.my-character {
+  flex-direction: column;
+  width: 50%;
+  padding: 0 1% 2% 1%;
+}
+
+.my-character-images {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  padding: 10%;
+}
+
+.character-details-image {
+  height: inherit;
+  padding: 9%;
+}
+
+.character-details-image img {
+  border-width: 3px 4px 3px 5px;
+  border-radius: 95% 4% 92% 5%/4% 95% 6% 95%;
+}
+
+.character-details-image i.fas {
+  left: 5px;
+}
+
+.my-character-details-info h3,
+.my-character-details-info h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  word-wrap: break-word;
+}
+
+.my-character-details-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: end;
+  padding-left: 10%;
+  padding-right: 5%;
+  width: 50%;
+}
+
+.other-info h3 {
+  font-size: 1.4rem;
+  justify-content: space-between;
+  margin: 0;
+  padding: 5%;
+}
+
+.other-info h3:nth-child(even) {
+  background: #b13967;
+}
+
+.other-info p {
+  font-size: 1.5rem;
+  padding: 2% 5%;
+  margin: 0;
+}
+
+.other-info span {
+  margin-left: 10px;
+}
+
+.span-div {
+  align-items: flex-start;
+  justify-content: space-between;
+  width: auto;
+}
