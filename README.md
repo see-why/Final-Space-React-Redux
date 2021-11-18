@@ -12,7 +12,7 @@ A mobile Web Application Hub for getting cool details on characters from the Adu
 
 ## Live Demo
 
-- [Live Demo Link]( https://www.adultswim.com/videos/final-space)
+- [Live Demo Link]( https://finalspacehub.netlify.app)
 
 ## Getting Started
 
