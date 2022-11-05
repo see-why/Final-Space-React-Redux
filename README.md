@@ -84,7 +84,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 - [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for a great design.
 - [@lelouchB](https://github.com/lelouchB/final-space-api) for creating the API.
-- my dog Perry for the comforting lick here and there
+- my dog Bubbles for the comforting lick here and there
 ## 📝 License
 - This project is [MIT](./LICENSE) licensed.
 - This project is also licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/).
